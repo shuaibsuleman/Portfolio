@@ -63,9 +63,12 @@ Final Assignment Design Thinking SSuleman.pdf
 A project focused on design thinking and its applications in solving complex problems.
 
 Collaboration and Interaction
+
 I am keen on collaborating and sharing knowledge. If you find my work aligns with your interests or you see potential for collaboration, feel free to reach out. I'm always open to discussing new ideas, projects, or providing insights into my work.
 
 Continuous Learning and Contribution
+
 As a lifelong learner, I continuously update my profile with new projects and studies. Feel free to explore, learn, and use these resources for educational purposes. Your feedback and suggestions are always welcome!
+
 
 Thank you for visiting my GitHub profile. Let's connect and explore the endless possibilities in the world of technology, business, and analytics!
